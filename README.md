@@ -23,11 +23,11 @@ Integrate with Appium to automate screen inspection and analyze UI elements and 
 
 ## Getting Started
 
-**Requirements:** Python 3.9+ and an Anthropic API key.
+**Requirements:** Python 3.9+ .
 
 ```bash
 git clone <repo-url>
-cd ai-accessibility-inspector
+cd accessibility-inspector
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
