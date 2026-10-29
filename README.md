@@ -19,7 +19,7 @@ Supports QA teams in identifying accessibility issues early, reducing manual rev
 
 ## Future Enhancement
 
-Integrate with Appium to automate screen inspection and analyze UI elements and accessibility properties for more comprehensive testing.
+Integrate with Appium to analyze UI elements properties and automate accessibility checks across application screens.
 
 ## Getting Started
 
